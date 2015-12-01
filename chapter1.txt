@@ -1,5 +1,67 @@
 # JS StoryMap
 
-I was born in the year 1632, in the city of York, of a good family...
+https://drive.google.com/folderview?id=0B-22o9NdkcLOY2phbmNzdFkxdjQ&usp=sharing
+
+These instructions were adapted from Gretta Tritch Roman’s instructions for her course “The Cultural Practice of Mapping”
+
+Download: http://www.bard.edu/pics-backgrounds/back_river_students.jpg
+
+1) Now that you have downloaded the image of Bard, navigate to this file on your computer. Right click on the file (control+click for Macs) and "Open with" Adobe Photoshop.
+
+a. With your photograph open in Photoshop, go to Image > Image Size
+
+
+b. Note the pixel dimensions - write these down on a piece of paper. You will need them in StoryMap
+
+c. Click Cancel - DO NOT CHANGE any settings here
+
+d. Go to File > Export > Zoomify
+
+f.	A dialogue box will appear with options you will need to change.
+The Base Name should be your name without spaces.
+Click on the Folder button, choose the location where you will save these. Desktop is fine.
+Change the Browser options to be 1000 pixels for both width and height.
+Click OK. A zoomable version of your image will open in your browser. Close that tab - you won't need it.
+
+
+e. Close Adobe Photoshop 
+
+3) Find your Zoomify folder (where you saved it from Photoshop). There will be a folder and a html file that were created. You will just need the folder, which should be named <FirstNameLastName>. In my case it is titled GrettaTritchRoman_img 
+a. Inside this folder are other files and folders you will need in StoryMap.
+
+
+
+4) Open Google Drive in the Chrome browser (this is important for the functionality of Google Drive): https://drive.google.com
+a. Log in with the following credentials:
+i. hist2123@gmail.com
+ii. photographycourse
+b. Drag and drop the folder named <FirstNameLastName> Transferring these
+folders will take some time. Please be patient.
+
+5) Once the file is transferred to Google Drive, right click on the file. Choose Share from
+the dropdown menu
+
+
+a. In the Share settings, change to “Anyone on the internet can view and find” Click Done
+
+b. Right click on your folder again. Choose Share again. Copy the link to your clipboard by highlighting it, right clicking and choosing Copy OR by pressing ⌘ Command + C
+
+6) Go to StoryMap JS in your browser: https://storymap.knightlab.com/ And click on the green button that reads Make a storymap now 
+a. When it asks “What type of story do you want to create?” Choose Gigapixel b. A dialogue box will appear with some blanks you will need to fill in. 
+i. “What do you want to call it?” – the name of your photograph can be whatever you choose; also you can change the name of the photograph later, too
+ii. “URL path for your image directory” – this is the link you copied from
+Google Drive; paste that URL in this box
+iii. “Maximum dimensions of your image” – these are the dimensions
+you wrote on a piece of paper when we were using Photoshop; write
+the width and the height 
+
+
+v. Click Create
+
+c. You should now see your map in the upper window with “Slides” to the left. You are currently on your title slide. You can edit the Headline, add a description, etc.
+
+d. We need to credit the image now. In the upper left, choose Options. A dialogue box will appear with the information you already entered to start your project. The last box is Attribution. 
+
+e. Please add the appropriate attribution for your photography
 
 
