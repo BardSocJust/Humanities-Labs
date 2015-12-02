@@ -2,7 +2,7 @@
 title: Chapter 1: JS StoryMap
 ---
 
-# JS StoryMap
+###JS StoryMap
 
 https://drive.google.com/folderview?id=0B-22o9NdkcLOY2phbmNzdFkxdjQ&usp=sharing
 
